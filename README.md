@@ -2,8 +2,8 @@
 - 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning Python, HTML, and CSS
 - 📫 How to reach me:
-    Instagram -> https://www.instagram.com/_ismailbaihaqi/
-    Gmail     -> ismaailbaihaqi@gmail.com
+Instagram -> https://www.instagram.com/_ismailbaihaqi/
+Gmail     -> ismaailbaihaqi@gmail.com
 
 <!---
 ismaailbaihaqi/ismaailbaihaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
