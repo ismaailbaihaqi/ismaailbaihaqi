@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programmer
 - 🌱 I’m currently learning Python, HTML, and CSS
 - 📫 How to reach me: Instagram -> https://www.instagram.com/_ismailbaihaqi/
-                                ->
 
 <!---
 ismaailbaihaqi/ismaailbaihaqi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
