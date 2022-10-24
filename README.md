@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ismaailbaihaqi
+- 👋 Hi, I’m Ismail Baihaqi
 - 👀 I’m interested in Programming Language
 - 🌱 I’m currently learning Python, HTML, and CSS
 - 📫 How to reach me:
